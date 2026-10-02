@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2d02c94a104108d41d4b21bd",
+  "owner": "xepers",
+  "repo": "page-46499750ecb18a2134537305",
+  "title": "小花",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "46499750ecb18a2134537305",
+      "a": "小花",
+      "b": "",
+      "entity": "小花",
+      "brand": "小花",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9ff0b8d6c137dcfd318bdb601c51d2ad28dd04d09f98b3c4958ecc7a28376bf8",
+      "content": {
+        "keyword1": "小花",
+        "keyword2": "",
+        "primary_entity": "小花",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小花是专业的VPN网络加速与机场订阅服务品牌，提供多端客户端官方下载、全球节点与灵活套餐，适合办公、娱乐与团队使用。访问小花官网了解详情并开始加速。",
+          "AI_DESCRIPTION": "小花是专业的VPN网络加速与机场订阅服务品牌，提供多端客户端官方下载、全球节点与灵活套餐，适合办公、娱乐与团队使用。访问小花官网了解详情并开始加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;background:#F8F6F0;color:#1A2F23;line-height:1.7;font-size:16px;overflow-x:hidden}*{box-sizing:border-box}.wrap{max-width:1100px;margin:0 auto;padding:16px}header{background:#1B4D3E;color:#fff;padding:16px}header .wrap{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center}header strong{font-size:18px}nav a{color:#fff;text-decoration:none;margin-right:12px;font-size:15px}h1{font-size:28px;color:#0D3B2E;margin:20px 0 12px}h2{font-size:22px;color:#1B4D3E;margin:32px 0 14px;padding-bottom:6px;border-bottom:2px solid #2E7D5B}h3{font-size:18px;color:#0D3B2E;margin:18px 0 8px}p,li{margin:0 0 12px;overflow-wrap:break-word}a{color:#1B4D3E}.cols{display:flex;flex-wrap:wrap;gap:20px}.col{flex:1;min-width:260px}.plan-grid{display:flex;flex-wrap:wrap;gap:16px;justify-content:center}.plan{background:#fff;border:1px solid #C8D5C8;border-radius:8px;padding:18px;flex:1;min-width:240px;max-width:340px}.plan.featured{border:3px solid #1B4D3E;box-shadow:0 4px 12px rgba(27,77,62,.12)}.price{font-size:24px;font-weight:700;color:#1B4D3E}.annual{font-size:14px;color:#444}ul{padding-left:20px}details{background:#fff;border:1px solid #C8D5C8;border-radius:4px;padding:10px 12px;margin-bottom:8px}summary{font-weight:600;color:#1B4D3E}details p{margin:8px 0 0}.ad-box{background:#E8F0E8;border:1px dashed #2E7D5B;padding:14px;text-align:center;margin:24px 0}footer{background:#0D3B2E;color:#d5e5d8;padding:24px 16px;font-size:14px}footer a{color:#a8d5b5;margin-right:10px}@media(max-width:600px){h1{font-size:24px}nav{width:100%;margin-top:8px}.plan{max-width:100%}}</style><header><div class=\"wrap\"><strong>小花官网</strong><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">下载</a><a href=\"#faq\">问答</a></nav></div></header><main class=\"wrap\"><h1>小花</h1><p>小花官方网站面向需要稳定跨境连接的用户，提供机场订阅与VPN网络加速服务，并指引多端客户端官方下载。页面说明品牌定位、套餐对比、使用场景与操作步骤，方便快速完成订阅与连接。</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"cols\"><div class=\"col\"><p>小花运营自有节点资源，将机场订阅与常用VPN客户端用法结合，帮助用户在办公协作、流媒体播放和游戏加速等场景下获得更顺畅的网络路径。服务强调可预期的流量配额、明确的同时在线设备数量，以及按套餐分级的线路质量。</p><p>基础线路覆盖日常访问，旗舰与团队套餐提供原生流媒体解锁与IPLC 专线优化。所有说明均以本页套餐条款为准，充值与订阅请通过小花官网完成，避免非官方渠道。</p></div><div class=\"col\"><h3>服务要点</h3><ul><li>订阅导入主流客户端，节点列表可一键更新</li><li>按月流量重置，套餐内不额外限速</li><li>香港、日本、新加坡、美国等地节点池</li><li>旗舰版起提供优先工单，团队版含客户经理对接</li></ul></div></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"cols\"><div class=\"col\"><h3>远程办公与会议</h3><p>跨国会议、云文档和邮件系统在高峰期容易拥堵。小花将办公常用站点走优化线路，降低丢包，适合长期在线的协作需求。</p></div><div class=\"col\"><h3>流媒体与资讯</h3><p>需要观看国际影视或查阅外文资料时，可按套餐选择解锁能力更完整的节点。旗舰版强调全节点原生流媒体策略，减少地区限制带来的中断。</p></div></div><div class=\"cols\"><div class=\"col\"><h3>游戏与实时应用</h3><p>对延迟敏感的对战与语音，可使用 IPLC 专线类节点。团队版额外提供高带宽 VIP 节点，适合多人同时在线。</p></div><div class=\"col\"><h3>多设备家庭或小团队</h3><p>同一订阅可在电脑、手机和平板导入，但须遵守套餐并发上限。家庭日常与小型工作室可按人数选择基础、旗舰或团队档位。</p></div></div></section><section id=\"plans\"><h2>套餐对比</h2><p>以下为小花当前公开档位，价格含月付与年付说明。年付按十二个月一次性结算，流量每月独立重置。请根据设备数量与解锁需求对比后选择。</p><div class=\"plan-grid\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版</h3><p>热门推荐</p><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"guide\"><h2>操作说明与客户端下载</h2><h3>官方下载指引</h3><p>小花不强制捆绑单一安装包。请在 Windows、macOS、Android、iOS 或 Linux 上使用与机场订阅兼容的客户端，于本站账户中心复制订阅地址后导入。官方下载说明仅在小花官网更新，请勿从来路不明的压缩包安装。</p><h3>连接步骤</h3><ol><li>打开小花官网选择套餐并完成订阅，保存专属订阅链接。</li><li>安装系统对应的加速客户端，保持应用为较新版本。</li><li>将订阅链接粘贴到客户端的订阅栏，执行更新以拉取节点。</li><li>按延迟或用途筛选节点，游戏优先选标注专线的条目，影音可选流媒体解锁节点。</li><li>连接成功后浏览目标站点验证；若失败可切换节点或提交工单。</li></ol><h3>节点与性能说明</h3><p>普通线路适合网页与中等码率视频；旗舰与团队套餐中的 IPLC 与 VIP 节点用于对时延和抖动更敏感的场景。实际速度受当地运营商与时段影响，流量以跨境传输计量，套餐额度用尽后需等待重置或升级。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>小花是什么？和普通VPN有何不同？</summary><p>小花是提供机场订阅的网络加速品牌，既可用常见VPN式客户端连接，也支持将订阅导入 Clash 等工具。区别在于按流量与设备数分档，并区分普通线路与专线节点，方便按场景选用。</p></details><details><summary>如何在官网完成客户端下载与导入？</summary><p>先在小花官网开通套餐获取订阅地址，再按设备安装兼容客户端。打开客户端订阅功能，粘贴链接并更新即可出现节点列表。本站不提供来源不明的可执行文件，以避免捆绑软件。</p></details><details><summary>三个套餐该如何选择？</summary><p>个人轻度使用选基础版；需要更好流媒体解锁、游戏专线和优先支持选旗舰版；设备多、流量大或需要定制路由选团队版。年付价格已在各卡片标明，可按预算决定月付或年付。</p></details><details><summary>流量与同时在线如何计算？</summary><p>流量按实际跨境使用量计入当月额度，每月重置。同时在线台数分别是 3、5、20。超出并发会被踢下线或无法新开连接，可将订阅用在多台设备但需自行控制开关。</p></details><details><summary>节点不稳定或无法解锁时怎么办？</summary><p>先更新订阅、更换同区域其他节点，并确认客户端规则未误伤。旗舰版用户可通过优先工单反馈具体应用与错误时间；团队版可联系客户经理协助调整路由。</p></details><details><summary>小花官网如何确认是官方身份？</summary><p>请收藏并仅通过固定域名进入小花官网获取套餐与说明。客服不会索要额外安装来路不明程序。充值记录与订阅信息以账户中心展示为准。</p></details></section><div class=\"ad-box\">品牌合作与展示位置：欢迎相关工具导航、云服务与内容站点洽谈文字合作，详情通过官网公布的联系方式沟通。</div><section><h2>网站地图与友情链接</h2><p>网站地图：<a href=\"#intro\">品牌简介</a> <a href=\"#scenes\">使用场景</a> <a href=\"#plans\">套餐对比</a> <a href=\"#guide\">操作与下载</a> <a href=\"#faq\">常见问题</a></p><p>友情链接：<a href=\"#\">客户端配置笔记</a> <a href=\"#\">跨境办公手册</a> <a href=\"#\">节点测速方法</a> <a href=\"#\">隐私设置建议</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>小花官网 · 机场订阅与VPN加速器信息服务</p><p>内容供套餐对照与操作参考，使用须遵守当地法律法规与服务条款。</p></div></footer>",
+          "hash": "e6251b9a2520ef766e5bd74d0b349bed444e4df3ea5232f6e581560ce8b2a140",
+          "seo": {
+            "title": "小花官网 - VPN梯子网络加速器、机场订阅与客户端官方下载",
+            "keywords": "小花,小花VPN,小花机场,小花官网,VPN,梯子,网络加速,加速器,客户端下载,官方下载,机场订阅",
+            "description": "小花是专业的VPN网络加速与机场订阅服务品牌，提供多端客户端官方下载、全球节点与灵活套餐，适合办公、娱乐与团队使用。访问小花官网了解详情并开始加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ey777.cn",
+    "host": "p-f7baa21083.ey777.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "ey777.cn",
+      "url": "https://ey777.cn/",
+      "label": "次元链接(cylink)",
+      "apex": "ey777.cn",
+      "kind": null,
+      "identity": "pupnjnqu/page-1364b2cdc0dc85788ad15078"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e2f8cfcd698cadd3dd9f9fe07a12696cfd36326d04b56c201ea8b492038620dc",
+    "sitemap.xml": "fd02846a27f05e3e7e21c8248250023e42ac2537a9f763cb146342914f7c927d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7da9bed19af60623652ecdb549caebe4ff512735f22dbe4f6b5b239d1843b4e8",
+    "robots.txt": "c2c25b1e501bef798661f25545f2735f4cafdc00a96711c3dd12efe0401d72d1",
+    "9449a7e2d039f9e6fd1746402d2374db.txt": "1d2b513921e1b512f12fe6ebb616a71353e576140cfa504dc4abfe9ed7f2af6a"
+  },
+  "revision": "ebe359b2154ccf54a3275a9547491e0c25dee40625b2bd5873e7dec69217656f"
+}
